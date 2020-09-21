@@ -1,1 +1,1 @@
-# Music-generation-using-WaveNet
+This model uses sequential LSTMs to generate music.
